@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUynv2isGQsuEj1rmZLBv2WUCmFLwaR3jd6lW82ckh/Bm3kJJCWWT7KLn1iVnVlv/C66R0tzVUcDui2d3O4taA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmet.ulker\\source\\repos\\BasketAPI\\src\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet.ulker\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ahmet.ulker\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512",
+    "C:\\Users\\ahmet.ulker\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\ahmet.ulker\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
